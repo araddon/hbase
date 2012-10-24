@@ -1,0 +1,4 @@
+hbase
+=====
+
+Hbase thrift client
